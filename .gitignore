@@ -1,0 +1,32 @@
+# Local editors and note-taking tools
+.obsidian/
+.vscode/
+.idea/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# VPN and authentication material
+*.ovpn
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Captures and challenge artefacts
+*.pcap
+*.pcapng
+*.7z
+*.zip
+*.hash
+
+# Generated output
+loot/
+output/
+tmp/
+
+# Temporary files
+*.tmp
+*.swp
+*~
