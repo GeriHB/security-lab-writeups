@@ -4,6 +4,8 @@
 
 Secret Kitteh appeared to be an ordinary JPEN image of a cat.
 
+![alt text](../../assets/cat.png)
+
 The useful evidence was not in the visible image or its metadata. A hexadecimal inspection showed that the JPEG ended before the physical end of the file, revealing an appended, password-protected 7z archive.
 
 The investigation followed this path:
